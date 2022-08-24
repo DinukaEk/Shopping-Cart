@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1575928694 source:d:\sltc\semester 2\data structures and algorithms\lab\shopping cart\main.c
+	<stdio.h>
+	<string.h>
+
+1576101687 source:e:\aa_ice\semester 2\data structures & algorithhms\shopping cart\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
